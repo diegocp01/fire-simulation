@@ -1,5 +1,7 @@
 # Fire Simulation
 
+![A wildfire lights up a mountain ridge beneath a smoky night sky.](https://github.com/diegocp01/fire-simulation/releases/download/preview/fire-simulation.png)
+
 An interactive view of a mountain wildfire at night, generated with **Claude Fable 5.2 Max**. Download `index.html` and open it in a browser. Drag to look around and scroll or pinch to zoom.
 
 ## Original prompt
